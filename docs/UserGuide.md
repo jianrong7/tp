@@ -136,10 +136,9 @@ Updates the Property List to show all properties in your database.
 
 Format: `listprop`
 
-No additional parameters are needed for this command and they will be ignored.
+No additional parameters are needed for this command, so they will be ignored.
 
 When command succeeds: Property list will be updated to show all properties in your database.
-
 
 When command fails: Invalid command for misspelling of command
 
